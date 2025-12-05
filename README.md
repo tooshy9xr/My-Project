@@ -39,13 +39,6 @@ Present real technical skills to recruiters and security teams.
 - PowerShell
 - java
 ---
-## 🚀 Future Plans
-Create full Splunk SOC simulation project,
-Add dashboards for multi-log sources,
-Build detection engineering library,
-Expand threat intelligence and hunting reports,
-Improve automation scripts for SOC tasks.
----
 ## 📞 Contact
 - GitHub: [link](https://github.com/tooshy9xr)
 - LinkedIn: [link](www.linkedin.com/in/ali-hayder-ba3b0035)
