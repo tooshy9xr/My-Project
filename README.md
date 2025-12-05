@@ -18,7 +18,7 @@ Present real technical skills to recruiters and security teams.
 ---
 ##  [📁 Repository Structure](https://github.com/tooshy9xr/My-Project/tree/199b993b69cdf2024c334fbcb2fd93fa3f8636a6)
 
-## - [Splunk](https://github.com/tooshy9xr/My-Project/blob/199b993b69cdf2024c334fbcb2fd93fa3f8636a6/splunk-search.md)
+## - [Splunk](https://github.com/tooshy9xr/My-Project/tree/955f910940c40ff937c542e2ba7e35ed70b6b80d/Splunk)
 - Fundamental Searches
 - Advanced Searches
 - Dashboards
