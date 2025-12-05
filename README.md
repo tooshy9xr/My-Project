@@ -39,23 +39,6 @@ Present real technical skills to recruiters and security teams.
 - PowerShell
 - java
 ---
-## 🎯 Target Certifications (Next Goals)
-
-- CISSP        - CCNA
-- CRTO         - google netowrk secruity
-- GCIA         - google cloud security 
-- GCIH         - CCD
-- GXPN         - PMRP
-- PNPT         - PSAP
-- CRTP         - OSDA
-- CND          - BLTA2
-- ECES         - ECDFP
-- eCPPT        - ECIR
-- eMAPT        - CDSA
-- eJPT         - SC-200
-- CYSA+        - security+
-- SAL1 
----
 ## 🚀 Future Plans
 Create full Splunk SOC simulation project,
 Add dashboards for multi-log sources,
