@@ -30,5 +30,5 @@ Welcome to my **Splunk Security Operations & Threat Analysis project**! 🚀 Thi
 - 7️⃣ Use Cases
 - 8️⃣ Threat Hunting
 - 9️⃣ Frameworks
-
+  اسوي شرح لجميع كلمات البحث
 ---
